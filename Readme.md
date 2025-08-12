@@ -126,6 +126,6 @@ Lembre-se de autorizar o token no Swagger antes de acessar endpoints protegidos.
 
 Contato
 Tatiana Kami
-LinkedIn
+LinkedIn  linkedin.com/in/tatiana-kami
 
 Bootcamp Formação Python Backend Developer - DIO
